@@ -1,1 +1,1 @@
-# CProgram.github.io
+# GameWithComputer.github.io
